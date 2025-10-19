@@ -47,6 +47,7 @@ Each transaction includes:
 
 ### 🪙 A. Financial and Seasonal Performance
 **Peak Month:** The analysis identified **February** as the highest revenue period, influenced by a seasonal effect tied to **colder weather**, specific February promotions like **Valentine's Day**, or the start of a local holiday/event cycle.
+
 <img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/19c8f7d5-f2e8-4424-8df3-6ab7d604b6bc" />
 
 **Recommendation:** Launch targeted campaigns and stock seasonal inventory one month before **February** to maximize sales momentum.
@@ -55,7 +56,12 @@ Each transaction includes:
 
 ### 🕒 B. Operational Efficiency and Staffing
 **Peak Hours:** Sales activity peaks at **10.00 AM** and followed by the second peak at **4.00 PM**.  
+
+<img width="1184" height="484" alt="image" src="https://github.com/user-attachments/assets/0e26fcee-2d50-4f80-ac5b-3dd7c97a61fa" />
+
 **Payment Type:** **95.7%** of transactions are paid via **Card**.
+
+<img width="759" height="784" alt="image" src="https://github.com/user-attachments/assets/4d277478-3954-47dd-9dbd-205df74a434c" />
 
 **Recommendation:** Align staff scheduling with peak hours to reduce wait times and improve service efficiency.  
 Given the high share of digital payments, consider minimizing cash handling and optimizing POS systems for speed.
@@ -64,5 +70,7 @@ Given the high share of digital payments, consider minimizing cash handling and 
 
 ### ☕ C. Product Strategy and Profitability
 **Best Seller:** **Americano with milk** generates the highest sales volume at an average price of **$30.39**, serving as a key traffic driver.
+
+<img width="1184" height="684" alt="image" src="https://github.com/user-attachments/assets/819e9c15-a538-4fc0-8d1d-8bf6eed9c195" />
 
 **Recommendation:** Implement **upselling strategies** (e.g., pairing with pastries or specialty upgrades) to lift **Average Revenue per Transaction (ARPT)** while leveraging product popularity.
