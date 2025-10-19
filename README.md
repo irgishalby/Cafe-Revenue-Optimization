@@ -1,6 +1,8 @@
 # ☕ Cafe-Revenue-Optimization
 **An Exploratory Data Analysis (EDA) for Strategic Decision-Making**
 
+Link: https://colab.research.google.com/drive/1K_q7C9_-UV4p2V4TkSGqhgKHESscRU8U?usp=sharing
+
 ---
 
 ## 1. Project Overview
